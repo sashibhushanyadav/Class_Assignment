@@ -1,0 +1,23 @@
+table,th,td,tfoot{
+    /* border-style: solid; */
+border: 2px solid;
+border-collapse: collapse;
+text-align: right;
+}
+
+th{
+    background-color: blue;
+}
+
+tr.print{
+    background-color: brown;
+}
+
+tr#well{
+    /* color:red; */
+    background-color: gold;
+}
+tr#total{
+    background-color: rgb(238, 14, 164);
+    /* text-align: center; */
+}
