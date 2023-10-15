@@ -1,0 +1,26 @@
+.page{
+    display: flex;
+    background-color: aqua;
+    padding-left: 50px;
+    padding-top: 1px;
+    
+}
+button{
+    border-radius:20px;
+    background-color: red;
+}
+img{
+    width: 400px;
+    height: 200px;
+}
+.aboutuser{
+    font-size: 20px;
+    padding-bottom: 1px;
+}
+.lorem{
+    font-size: 15px;
+}
+.lorem2{
+    text-align: left;
+    font-size: 10px;
+}
