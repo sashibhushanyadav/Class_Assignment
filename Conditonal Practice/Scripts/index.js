@@ -11,7 +11,7 @@ if (totalMark%2===0){
 }
 
 if (totalMark >= 80) {
-  console.log(marks+" is distrinction and "+oddEven);
+  document.write(marks+" is "+oddEven+" and distrinction");
 } else {
-  console.log(marks+" is not distrinction and "+oddEven);
+  document.write(marks+" is "+oddEven+ " and not distrinction");
 }
